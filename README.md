@@ -1,5 +1,6 @@
 📧 Spam Mail Detection using Machine Learning :
 This project aims to classify emails as spam or ham using natural language processing (NLP) and a supervised learning approach. The model is trained using a labeled dataset and applies TF-IDF vectorization and Logistic Regression for classification.
+The model achieves an accuracy of 96-97% on both training and testing data .
 
 📁 Files
 Spam_Mail.ipynb: Main Jupyter notebook containing the entire code pipeline.
